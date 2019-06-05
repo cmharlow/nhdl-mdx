@@ -54,7 +54,7 @@ class Record:
             elements = self.elem[1][0].findall(self.args.element, ns_map)
             for element in elements:
                 if element.text:
-                    out.append(element.text.encode("utf-8").strip())
+                    out.append(element.text.strip())
 
             if len(out) == 0:
                 out = None
@@ -70,7 +70,7 @@ class Record:
         out = []
         for i in self.elem[1][0]:
             if i.text:
-                out.append((i.tag, i.text.encode("utf-8").strip().replace("\n", " ")))
+                out.append((i.tag, i.text.strip().replace("\n", " ")))
         return out
 
     def get_stats(self):

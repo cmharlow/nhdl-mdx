@@ -134,14 +134,14 @@ def writeHarvest(link, data, ofile):
 def main():
     parser = ArgumentParser()
     parser.add_argument("-l", "--link", dest="link", help="OAI-PMH URL",
-                        default="https://ecommons.cornell.edu/dspace-oai/request")
+                        default="http://digitalcollections.plymouth.edu/oai/oai.php")
     parser.add_argument("-o", "--filename", dest="fname",
                         help="write repository to file", default="harvest.xml")
     parser.add_argument("-f", "--from", dest="fromDate",
                         help="harvest records from this date YYYY-MM-DD")
     parser.add_argument("-u", "--until", dest="until",
                         help="harvest records until this date YYYY-MM-DD")
-    parser.add_argument("-m", "--mdprefix", dest="mdprefix", default="oai_dc",
+    parser.add_argument("-m", "--mdprefix", dest="mdprefix", default="oai_qdc",
                         help="use the specified metadata format")
     parser.add_argument("-s", "--setName", dest="setName",
                         help="harvest the specified OAI-PMH set")

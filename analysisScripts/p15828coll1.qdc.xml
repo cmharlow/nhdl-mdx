@@ -2,26 +2,39 @@
 <record><header status="deleted"><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/0</identifier><datestamp>2012-02-09</datestamp><setSpec>p15828coll1</setSpec></header>
 </record><record><header status="deleted"><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/1</identifier><datestamp>2012-02-09</datestamp><setSpec>p15828coll1</setSpec></header>
 </record><record><header status="deleted"><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/2</identifier><datestamp>2012-02-09</datestamp><setSpec>p15828coll1</setSpec></header>
-</record><record><header><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/3</identifier><datestamp>2019-04-23</datestamp><setSpec>p15828coll1</setSpec></header>
-<metadata>
-<oai_qdc:qualifieddc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
-<dc:title>Plymouth State College Aerial View</dc:title>
-<dcterms:alternative>Plymouth State University Aerial View</dcterms:alternative>
-<dc:format>black-and-white prints</dc:format>
-<dc:date>1960</dc:date>
-<dc:description>1960</dc:description>
-<dcterms:modified>2/8/2011</dcterms:modified>
-<dc:description>Looking north.</dc:description>
-<dc:subject>aerial views; campuses; university and college buildings; Plymouth, NH; Pemigewasset River;</dc:subject>
-<dcterms:spatial>Plymouth (Grafton county, New Hampshire : inhabited place)</dcterms:spatial>
-<dcterms:extent>8 x 10 inches</dcterms:extent>
-<dc:type>image</dc:type>
-<dc:identifier>SA201100015</dc:identifier>
-<dcterms:provenance>Michael J. Spinelli Jr. Center for University Archives and Special Collections, Plymouth State University, Plymouth, NH, USA</dcterms:provenance>
-<dc:rights>http://rightsstatements.org/vocab/InC/1.0/</dc:rights>
-<dc:identifier>http://digitalcollections.plymouth.edu/cdm/ref/collection/p15828coll1/id/3</dc:identifier></oai_qdc:qualifieddc>
-</metadata>
-</record><record><header status="deleted"><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/4</identifier><datestamp>2012-02-09</datestamp><setSpec>p15828coll1</setSpec></header>
+</record>
+<record>
+  <header>
+    <identifier>oai:digitalcollections.plymouth.edu:p15828coll1/3</identifier>
+    <datestamp>2019-04-23</datestamp>
+    <setSpec>p15828coll1</setSpec>
+  </header>
+  <metadata>
+    <oai_qdc:qualifieddc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+      <dc:title>Plymouth State College Aerial View</dc:title>
+      <dcterms:alternative>Plymouth State University Aerial View</dcterms:alternative>
+      <dc:format>black-and-white prints</dc:format>
+      <dc:date>1960</dc:date>
+      <dc:description>1960</dc:description>
+      <dcterms:modified>2/8/2011</dcterms:modified>
+      <dc:description>Looking north.</dc:description>
+      <dc:subject>aerial views; campuses; university and college buildings; Plymouth, NH; Pemigewasset River;</dc:subject>
+      <dcterms:spatial>Plymouth (Grafton county, New Hampshire : inhabited place)</dcterms:spatial>
+      <dcterms:extent>8 x 10 inches</dcterms:extent>
+      <dc:type>image</dc:type>
+      <dc:identifier>SA201100015</dc:identifier>
+      <dcterms:provenance>Michael J. Spinelli Jr. Center for University Archives and Special Collections, Plymouth State University, Plymouth, NH, USA</dcterms:provenance>
+      <dc:rights>http://rightsstatements.org/vocab/InC/1.0/</dc:rights>
+      <dc:identifier>http://digitalcollections.plymouth.edu/cdm/ref/collection/p15828coll1/id/3</dc:identifier>
+    </oai_qdc:qualifieddc>
+  </metadata>
+</record>
+<record>
+  <header status="deleted">
+    <identifier>oai:digitalcollections.plymouth.edu:p15828coll1/4</identifier>
+    <datestamp>2012-02-09</datestamp>
+    <setSpec>p15828coll1</setSpec>
+  </header>
 </record><record><header><identifier>oai:digitalcollections.plymouth.edu:p15828coll1/5</identifier><datestamp>2019-04-23</datestamp><setSpec>p15828coll1</setSpec></header>
 <metadata>
 <oai_qdc:qualifieddc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
@@ -7941,7 +7954,7 @@
 <dc:identifier>SA201100946</dc:identifier>
 <dcterms:provenance>Michael J. Spinelli Jr. Center for University Archives and Special Collections, Plymouth State University, Plymouth, NH, USA</dcterms:provenance>
 <dc:rights>http://rightsstatements.org/vocab/InC/1.0/</dc:rights>
-<dc:description>Time for a New Coat 
+<dc:description>Time for a New Coat
 The Clock Tower on Rounds Hall, a Plymouth State College and North Country landmark since 1891, receives a fresh coat of paint in preparation for the Rounds Hall Centennial Celebration Aug. 28.  A community-wide event that day will include the cutting of a huge 100th birthday cake in the shape of Rounds Hall and the grand opening of the Plymouth Historical Society Museum in the former courthouse and town library adjacent to Rounds.</dc:description>
 <dc:identifier>http://digitalcollections.plymouth.edu/cdm/ref/collection/p15828coll1/id/479</dc:identifier></oai_qdc:qualifieddc>
 </metadata>
@@ -10917,18 +10930,18 @@ Mt. Prospect Party.</dc:description>
 <dc:identifier>SA201100901</dc:identifier>
 <dcterms:provenance>Michael J. Spinelli Jr. Center for University Archives and Special Collections, Plymouth State University, Plymouth, NH, USA</dcterms:provenance>
 <dc:rights>http://rightsstatements.org/vocab/InC/1.0/</dc:rights>
-<dc:description>By Ken Gould 
+<dc:description>By Ken Gould
 Union Leader Plymouth Reporter
 A new industrial plant, hardly a year old that is operating on a four shifts a day and a tremendous expansion in the educational facilities at Plymouth Teachers College is the good news for Plymouth located at the foothills of the White Mountains.
-The Sprague Electric Company that started operations in a brand new plant less than a year ago with about 60 employees, now has over 250 regularly employed, and is looking for more applications from women to turn out the solid tantalum capacitor that is used in missiles, radio, radar, television, photography and allied uses. 
+The Sprague Electric Company that started operations in a brand new plant less than a year ago with about 60 employees, now has over 250 regularly employed, and is looking for more applications from women to turn out the solid tantalum capacitor that is used in missiles, radio, radar, television, photography and allied uses.
 $1 Million Budget
-Plymouth Teachers College that had an enrollment of 454 less than 4 years ago, predicts a student body of 905 this fall and 1305 just four years from now.  Its budget for 1962-63is about one million dollars of which more than half, or about $650,000, go for personal services.  It presently has 107 full-time employees.  
+Plymouth Teachers College that had an enrollment of 454 less than 4 years ago, predicts a student body of 905 this fall and 1305 just four years from now.  Its budget for 1962-63is about one million dollars of which more than half, or about $650,000, go for personal services.  It presently has 107 full-time employees.
 Newest addition to the facilities at the college is Blair Hall, a men’s dormitory, that was occupied in 1960.  It cost about $700,000 and houses 166 men.
 Ground breaking will be held in November for the construction of a dormitory for women that is estimated to cost $975,000.  It is to the located on the property of the former Pemigewassett Hotel on Highland St.  It is expected to be occupied in Sept. 1963.
 $60,000 Library
-Also in the fall of this year, ground is expected to be broken for the construction of a new library that will house 65,000 volumes.  This is estimated to cost $600,000 and will be located on the front of the lot where the woman’s dormitory is to be build.  
+Also in the fall of this year, ground is expected to be broken for the construction of a new library that will house 65,000 volumes.  This is estimated to cost $600,000 and will be located on the front of the lot where the woman’s dormitory is to be build.
 Capital improvements planned in the next 10-year period include: a new science classroom building at a cost of $976,000; a six-room addition to Silver Hall to the north of the present building that will provide space for the physical education department and also rooms for the music and drama departments, at a cost of $189,060; an addition to the administration building at a cost of $52,000; a remodeling of the present library into classrooms and offices at a cost of $30,000; an extension of the athletic field by some 18 acres to the north plus equipment at a cost of $50,000; a housing group for married students comprising 30 units, at a cost of $360,000; a new men’s dormitory to house 225, at a cost of $953,000; an athletic field dressing and storage building at a cost of $21,000; and a purchase of property from the Plymouth School District at a cost of $426,250.
-Also planned in the future is a swimming pool at Silver Hall at a cost of $260,000; and two more dormitories costing one million dollars each to house 225 men and women students respectively.  A new science house, to be located east 
+Also planned in the future is a swimming pool at Silver Hall at a cost of $260,000; and two more dormitories costing one million dollars each to house 225 men and women students respectively.  A new science house, to be located east
 </dc:description>
 <dc:identifier>http://digitalcollections.plymouth.edu/cdm/ref/collection/p15828coll1/id/692</dc:identifier></oai_qdc:qualifieddc>
 </metadata>
@@ -18305,7 +18318,7 @@ INTR: Has there been much change in the class size at Pinkerton while you’ve b
 INTE: No, then again, as in so many schools, so many schools packed kids in, thirty-five or so. They've tried to keep the maximum class at Pinkerton at thirty, and they try to keep it at twenty-five. Now that's very good.
 
 INTR: Very good size.
- 
+
 INTE: Yes, I think the classes this year are smaller. There was a time when we had the twenty-three hundred students that they got up to thirty-one, thirty-two; but I know for a fact that the cutoff point has been thirty and we were crowded; but every single student in that school when we had twenty-two hundred or twenty-three hundred students had a homeroom desk and a book. That’s another thing they are very insistent on, every single student in the class has his own book.
 
 INTR: Are most of the teachers still using the standard textbooks? I'd say with English it would be quite a bit in composition books.
@@ -18317,7 +18330,7 @@ INTR: How large is the library? It's the Saltmarsh Library?
 INTE: Saltmarsh Library. We have about 17,000 volumes, which is good for a Secondary School Library. I use the State Library a great deal especially for the advanced courses and they have the inter-library loan which gives me access to all of the college libraries in the State.
 
 And you have no idea how the kids are impressed, if I say this book came for you from Dartmouth College or the University, Keene, Plymouth, or Exeter. It's a marvelous system, because now with the price of books, it's difficult to justify buying a twenty dollar book that’s going to be used by one of the students. If there's a demand when I borrow these books and I see how valuable they are, then they are on my list and I buy them.
- 
+
 INTR: Are there any other staff working at the library?
 
 INTE : Yes, I have a very, very fine first assistant; she has taken over the cataloging and she has become an expert in cataloging. She is also a very fine person in dealing with the students, and I have one or two clerks from the CETA Program and I have been very fortunate because they have worked out fine and then I have one other assistant so I have three or four people there.
@@ -18380,7 +18393,7 @@ INTR: Does the library have an opportunity to take the students on field trips?
 INTE: No, we don't do anything in that area because the classes are having field trips, and, as I said, we are a social center of the school because we're having meets and all kinds of things in the library. Whenever there’s a meeting to be held, Mr. Ek will call and say, &quot;I'd like to reserve the library for such and such a day, such and such a time.&quot; I have a big calendar and I write everything down and now you have to get in ahead because other people are always saying, &quot;We'd like a meeting,&quot; or &quot;We'd like to have this or that.&quot; Then we also have some activity in connection with the town and I belong to the Delta Kappa Gamma group, which is an honorary society for women in Education. We always have one meeting a year at the library. I belong to the AAUW in Manchester and sometimes they come down here and the Vocational Education Department in the school has grown considerably since you were here and we have a work program, work study program. The students come to school and stay in school until noon and then leave to many businesses and to factories here in town and that’s under the Head of the Vocational Education Department. They have an advisory committee, interested men who come to school once a month and have a meeting. That’s always held at the library. Any receptions or parties or anything of that sort always end up in the library.
 
 INTR: Were you able to take the field trips as a teacher? Did you go at all?
- 
+
 INTE: Yes, I did, not to the extent that they do now, but whenever it was feasible.
 
 INTR: Where would you go on a field trip?
@@ -19947,7 +19960,7 @@ process.
 <dc:identifier>DN201900183</dc:identifier>
 <dcterms:provenance>Michael J. Spinelli Jr. Center for University Archives and Special Collections, Plymouth State University, Plymouth, NH, USA</dcterms:provenance>
 <dc:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dc:rights>
-<dc:description>Plymouth State College 
+<dc:description>Plymouth State College
 2nd Annual Dance Premier
 Hanaway Theatre
 February 12, 2000 - 6:00 pm
